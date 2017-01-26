@@ -1529,10 +1529,3 @@ function foo()
 end
 
 foo()
-
-
-
-
-
-
-
